@@ -1,0 +1,31 @@
+
+#                               (Updated : 20 Octobre 2021 - 12h14)
+#------------------------------------ Linux Files Systems ------------------------------------------------
+# Jeux Linux
+UUID=8b796cb2-8c9d-4060-b932-e77a84beea5f   /mnt/Jeux_Linux     ext4    defaults    0   2
+
+# Linux
+UUID=e3701692-59a9-4ded-b6db-9617acd1d099   /mnt/Linux          ext4    defaults    0   2
+
+# SSD Linux
+UUID=97092052-4a69-46d1-a64f-bcb71f954efc   /mnt/SSD_Linux      ext4    defaults    0   2
+
+#----------------------------------- Windows Files Systems -----------------------------------------------
+# Films
+UUID=01D535EB7C8BA190                       /mnt/Films         ntfs     defaults    0   2
+
+# Jeux
+UUID=E8BAA624BAA5EF6E                       /mnt/Jeux          ntfs     defaults    0   2
+
+# Jeux_SSD
+UUID=C836A08636A076DA                       /mnt/Jeux_SSD      ntfs     defaults    0   2
+
+# Multimedia
+UUID=1E1A3A441A3A18EB                       /mnt/Multimedia    ntfs     defaults    0   2
+
+# Photos
+UUID=770C7EA724D607B3                       /mnt/Photos        ntfs     defaults    0   2
+
+# Windows
+UUID=322602932602586D                       /mnt/Windows       ntfs     defaults    0   2
+#---------------------------------------------------------------------------------------------------------
